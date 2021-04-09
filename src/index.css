@@ -1,0 +1,13 @@
+.timeline {
+}
+
+.timeline li {
+  display: inline-block;
+  width: 10px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.executed {
+  background-color: red;
+}
