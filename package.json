@@ -5,5 +5,8 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }

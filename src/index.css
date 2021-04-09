@@ -3,11 +3,14 @@
 
 .timeline li {
   display: inline-block;
-  width: 10px;
+  width: 20px;
   height: 100px;
   border: 1px solid black;
+  margin: 0 3px;
+  line-height: 100px;
+  text-align: center;
 }
 
-.executed {
+.active {
   background-color: red;
 }
